@@ -1,6 +1,5 @@
 # NetworkedMediaFinal
- Harry and Keels Jimmy Buffet Website
+Jimmy Buffett Website
 
-RIP Jimmy Buffet
+by Harrison Newman and Keels Braga
 
-hello world
